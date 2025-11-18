@@ -64,10 +64,7 @@
       "KC_0",
       "KC_BSPC",
       "KC_LSFT",
-      {
-        "type": "tap_macro",
-        "keys": ["KC_LALT", "KC_TAB"]
-      },
+      "LALT(KC_TAB)",
       "KC_NO",
       "KC_NO",
       "KC_NO",

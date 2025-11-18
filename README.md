@@ -1,3 +1,3 @@
 # corne-config
-Repository for my corne configuratioh using qmk
+Repository for my corne configuration using qmk
 
